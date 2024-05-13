@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace URI1014
+namespace URI1012
 {
     class Program
     {
